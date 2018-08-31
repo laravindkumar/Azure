@@ -1,3 +1,5 @@
 Test GIT file
 
 update1
+
+Second update
