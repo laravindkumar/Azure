@@ -1,0 +1,26 @@
+download git into local PC to access files from public repository
+
+
+git clone <copy the file path>   /// to download from public repository ///
+
+git status  /// to check status ///
+
+
+git add <file name>  // after modifying the file ///
+
+git commit -m "updated notes"   // to pass comment by commiting the modified file ///
+
+
+git push  // to push to public repository //
+
+
+
+
+
+==============================
+if file is modified, you can download by using pull command below
+
+git pull
+
+
+
