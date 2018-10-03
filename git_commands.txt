@@ -1,5 +1,7 @@
 download git into local PC to access files from public repository
 
+=========================================================================
+
 
 git clone <copy the file path>   /// to download from public repository ///
 
